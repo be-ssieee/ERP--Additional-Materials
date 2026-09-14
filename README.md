@@ -6,9 +6,9 @@ This repository contains the code and supporting materials for the MSc Data Scie
 
 ## 2. Data Requirements
 
-The full YouTube datasets are not included in this public repository. To reproduce the reported analyses, the archived RQ1 scoring/metadata datasets and RQ2 labelled/comment-prediction datasets are required.
-
-The original data collection and preparation procedures are described in the Technical Appendix. YouTube data were collected using the YouTube Data API, with video transcripts retrieved using the `youtube-transcript-api` Python package.
+The full YouTube datasets are not included in this public repository. To reproduce the reported analyses, the archived RQ1 scoring/metadata datasets and RQ2 labelled/comment-prediction datasets are required. 
+Because YouTube content and API results may change over time, re-collecting the data may not reproduce the exact historical dataset used in the dissertation.
+The original data collection and preparation procedures are described in the Technical Appendix. YouTube data were collected using the YouTube Data API, with video transcripts retrieved using the `youtube-transcript-api` Python package. Please contact 2582425194@qq.com if you need the archived dataset.
 
 ## 3. Repository File Guide
 
