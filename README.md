@@ -12,13 +12,13 @@ The original data collection and preparation procedures are described in the Tec
 
 ## 3. Repository File Guide
 
-- `code/RQ1_analysis.py` — RQ1 validation, main tests and sensitivity analyses.
-- `code/RQ2_classifier.py` — BERT training, validation-threshold selection, test evaluation and full-data prediction.
-- `code/RQ2_did_analysis.py` — RQ2 descriptive shares and DiD estimation.
-- `code/RQ2_pretrend.R` — channel-month pre-intervention trend analysis.
-- `documentation/RQ1_mDISCERN coding rules.docx` — five-item mDISCERN coding rules.
-- `documentation/RQ1_LLM-assisted coding prompt.docx` — LLM-assisted coding prompt and recorded configuration.
-- `outputs/` — principal reported results for verification.
+- `Code/RQ1_analysis.py` — RQ1 validation, main tests and sensitivity analyses.
+- `Code/RQ2_classifier.py` — BERT training, validation-threshold selection, test evaluation and full-data prediction.
+- `Code/RQ2_did_analysis.py` — RQ2 descriptive shares and DiD estimation.
+- `Code/RQ2_pretrend.R` — channel-month pre-intervention trend analysis.
+- `Documentation/RQ1_mDISCERN coding rules.docx` — five-item mDISCERN coding rules.
+- `Documentation/RQ1_LLM-assisted coding prompt.docx` — LLM-assisted coding prompt and recorded configuration.
+- `Supporting materials-outputs/` — principal reported results for verification.
 - `requirements.txt` — required Python packages.
 
 ## 4. Environment Setup
